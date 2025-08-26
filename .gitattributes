@@ -1,3 +1,10 @@
-*.ipynb linguist-language=Jupyter Notebook
+# Python scripts
+*.py linguist-language=Python
+
+# R scripts e R Markdown
 *.R linguist-language=R
 *.Rmd linguist-language=R
+
+# Jupyter Notebooks — deixar sem linha forçando linguagem,
+# porque o GitHub detecta automaticamente como Jupyter Notebook
+# *.ipynb linguist-language=Jupyter Notebook  # NÃO é necessário
