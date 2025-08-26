@@ -10,5 +10,3 @@ Encontrar as similaridades (grupos mais similares) com base nas as preferências
 # 📂 Base de Dados
 As observações estão organizadas de modo que cada funcionário possui 3 linhas onde cada uma está uma atividade escolhida (departamento, divisão e escritório se repetem).
 Todas as variáveis são categóricas. Com isso, Utilizei MCA com Kmeans para encontrar os grupos dado que MCA é técnica robusta para variáveis categóricas e nos permite que sejam estudadas as associações entre variáveis categóricas e suas categorias, bem como a intensidade de suas associações. Como resultado teremos valores numericos e com isso o K-means poderá ser utilizado para identificação dos grupos.
-
-Outra possibilidade seria usar MCA - Análise de Correspondência Múltipla. 
