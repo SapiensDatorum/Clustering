@@ -1,4 +1,4 @@
-<img src="clustering.jpg" alt="Imagem do Projeto" width="250"/>
+<img src="clustering.jpg" alt="Imagem do Projeto" width="600"/>
 
 # Clustering - MCA e K-means
 Autor: Rogério R R Coelho
