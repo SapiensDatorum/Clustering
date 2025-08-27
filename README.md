@@ -2,7 +2,6 @@
 
 ## 🚀 Tecnologias Utilizadas
 
-- 🐍 Python  
 - 📓 Jupyter Notebook  
 - 📊 R / R Markdown  
 
