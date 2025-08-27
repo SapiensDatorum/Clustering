@@ -1,4 +1,10 @@
-<img src="clustering.jpg" alt="Imagem do Projeto" width="600"/>
+<img src="clustering.jpg" alt="Imagem do Projeto"/>
+
+## 🚀 Tecnologias Utilizadas
+
+- 🐍 Python  
+- 📓 Jupyter Notebook  
+- 📊 R / R Markdown  
 
 # Clustering - MCA e K-means
 Autor: Rogério R R Coelho
