@@ -1,3 +1,5 @@
+<img src="clustering.jpg" alt="Imagem do Projeto" width="250"/>
+
 # Clustering - MCA e K-means
 Autor: Rogério R R Coelho
 
